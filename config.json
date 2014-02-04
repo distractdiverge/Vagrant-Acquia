@@ -1,0 +1,39 @@
+{
+  "ip": "192.168.44.44",
+  "memory": "1024",
+  "synced_folder": {
+    "host_path": "data/",
+    "guest_path": "/var/www",
+    "use_nfs": false
+  },
+  "php": {
+    "version": false
+  },
+  "mysql": {
+    "server_root_password": "root"
+  },
+  "sites": {
+    "drupal7": {
+      "account_name": "root",
+      "account_pass": "root",
+      "account_mail": "contact@alexlapinski.name",
+      "site_name": "Drupal 7",
+      "site_mail": "contact@alexlapinski.name"
+    }
+  },
+  "git": {
+    "user": {
+      "name": "Alex Lapinski",
+      "email": "contact@alexlapinski.name"
+    },
+    "core": {
+      "editor": "vi"
+    },
+    "color": {
+      "ui": true
+    }
+  },
+  "custom_roles": [
+    "vdd_example"
+  ]
+}
