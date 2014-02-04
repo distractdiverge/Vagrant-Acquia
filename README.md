@@ -1,10 +1,10 @@
-Acquia_Vagrant
-==============
+# Vagrant Drupal Development
 
-A Vagrant Workspace to use with local Acquia development
+A vagrant environment for use as a local Acquia development environment. Based on the Vagrant Drupal Development box (https://drupal.org/project/vdd).
 
-## Get Started
- * Download Vagrant (http://www.vagrantup.com/)
- * Download Virtual Box
- * Clone this repo
- * run ```vagrant up```
+## Prerequisites
+ * Virtual Box (https://www.virtualbox.org/wiki/Downloads)
+ * Vagrant (http://www.vagrantup.com/)
+ 
+## Setup
+ * Clone this repository
