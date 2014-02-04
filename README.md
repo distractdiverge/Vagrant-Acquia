@@ -1,4 +1,4 @@
-# Vagrant Drupal Development
+# Acquia Vagrant Environment
 
 A vagrant environment for use as a local Acquia development environment. Based on the Vagrant Drupal Development box (https://drupal.org/project/vdd).
 
